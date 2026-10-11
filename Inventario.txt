@@ -1,0 +1,9 @@
+﻿P01,Laptop Hp,8000.0,9,Computadora
+P02,Mouse Inalambrico,50.0,25,Accesorio
+P03,Mouse alambrico,40.0,10,Accesorio
+P04,Teclado,100.0,30,Accesorio
+P05,USB 64GB,120.0,3,Accesorio
+P06,silla gamer,2000.0,5,gamer
+p07,audifonos gamer,500.0,10,gamer
+p08,impresora epson,2000.0,2,impresora
+P10,teclado,50.0,10,accesorio
